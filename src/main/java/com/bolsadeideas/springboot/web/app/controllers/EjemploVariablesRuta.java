@@ -17,4 +17,6 @@ public class EjemploVariablesRuta {
                 "El numero de telefono enviado en el path es: " + numero);
         return "variables/ver";
     }
+
+    
 }
